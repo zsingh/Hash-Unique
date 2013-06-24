@@ -1,0 +1,5 @@
+A program that uses a hash table to find all unique strings in a given text file.
+
+Written in C with a makefile attached. If makefile does not work, use gcc commands inside.
+
+Free to use.
